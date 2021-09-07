@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Aonymous indian hacker who wants to participate in hackathons and CTFs without breaching company legalities. Open to converting this into a group of similar people - contact via mail.
+
 <!--
 **pidgeycode/pidgeycode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
